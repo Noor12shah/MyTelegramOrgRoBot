@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hi!
 This Is API EXTRACTOR BOT
-Thank you for using me ! Thanks To @SpEcHIDe For This Bot !
+Thank you for using me ! Don't Forget To Check Out @FridayOT
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
 /start at any stage to re-enter your details"""
