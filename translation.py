@@ -1,10 +1,10 @@
 class Translation(object):
-    START_TEXT = """**Hi!
-This Is API EXTRACTOR BOT** 
+    START_TEXT = """Hi!
+This Is API EXTRACTOR BOT
 Thank you for using me ! Thanks To @SpEcHIDe For This Bot !
-**Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org**
+Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
-`/start` at any stage to re-enter your details"""
+/start at any stage to re-enter your details"""
     AFTER_RECVD_CODE_TEXT = """I see!
 Now please send the Telegram code that you received from Telegram!
 
